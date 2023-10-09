@@ -1,9 +1,22 @@
-# Machine Learning 2023
+# **Machine Learning - 2023**
 
-Nama : Lailatul Badriyah
+Selamat datang di repository mata kuliah **Machine Learning** untuk semester 5. Repository ini berisi tugas-tugas yang telah saya kerjakan selama mata kuliah ini.
 
-Kelas : TI-3H
-
-NIM : 2141720036
-
-No. Absen : 14
+<table>
+  <tr>
+    <th>Nama</th>
+    <td>Lailatul Badriyah</td>
+  </tr>
+    <tr>
+    <th>Kelas</th>
+    <td>TI-3H</td>
+  </tr>
+  <tr>
+    <th>NIM</th>
+    <td>2141720003</td>
+  </tr>
+    <tr>
+    <th>No. Absen</th>
+    <td>14</td>
+  </tr>
+</table>

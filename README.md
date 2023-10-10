@@ -13,7 +13,7 @@ Selamat datang di repository mata kuliah **Machine Learning** untuk semester 5. 
   </tr>
   <tr>
     <th>NIM</th>
-    <td>2141720003</td>
+    <td>2141720036</td>
   </tr>
     <tr>
     <th>No. Absen</th>
